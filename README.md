@@ -1,11 +1,11 @@
 ## Hi, I am GhostBabby👾
-love 4 this
-Software engineering student
+
+ Software engineering student
 Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
 ## ⚡ 
-
+love 4 this
 ### Languages :
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
