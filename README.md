@@ -1,9 +1,9 @@
 ## Hi, I am GhostBabby! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-## ⚡ Technologies
+## ⚡ 
 
-### Language :
+### Languages :
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
